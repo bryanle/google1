@@ -1,0 +1,81 @@
+#header
+{
+    margin-left:auto;
+    background-color:red;
+    float:right;
+}
+
+#navlist
+{
+    list-style-type: none;
+}
+
+#navlist li
+{
+    display:inline;
+    margin-left: 7px;
+
+
+}
+
+#body
+{
+    position:relative;
+    top:20%;
+
+
+}
+
+.logo
+{
+    height:100px;
+
+
+}
+
+.search
+{
+    background-color:red;
+}
+
+.searchinput
+{
+    background-color:;
+    height:20px;
+    width:400px;
+}
+
+.button
+{
+
+}
+
+#footer
+{
+    background-color:orange;
+    bottom:0;
+    position:fixed;
+    display:block;
+}
+
+#footer ul
+{
+    list-style-type: none;
+}
+
+#footer ul li
+{
+
+    display:inline;
+    margin-left: 7px;
+}
+
+#botnavLeft
+{
+    float:left;
+}
+
+#botnavRight
+{
+    float:right;
+}
